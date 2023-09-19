@@ -1,0 +1,28 @@
+.url{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.center{
+    text-align: center;
+
+}
+.btn{
+    margin-right: 5px;
+
+}
+.box{
+    height: 1000px !important;
+}
+.navbarbtn{
+    display: flex;
+    justify-content: end;
+}
+.navbar-brand{
+font-size: 50px !important;
+}
+
+.mainbox{
+    box-shadow: 1px 5px 15px 0.5px rgb(149, 149, 149);
+}
